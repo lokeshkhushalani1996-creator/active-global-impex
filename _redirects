@@ -1,0 +1,20 @@
+# Cloudflare Pages Redirect Rules
+# Docs: https://developers.cloudflare.com/pages/configuration/redirects/
+# Format: source destination [status]
+
+# www -> non-www canonical
+https://www.activeglobalimpex.com/* https://activeglobalimpex.com/:splat 301
+
+# Root -> default locale (English)
+/ /en/ 302
+
+# Legacy HTML paths
+/index.html /en/ 301
+/home /en/ 301
+/products.html /en/products/ 301
+/contact.html /en/contact/ 301
+/about.html /en/about/ 301
+
+# Common typos for Indonesian locale
+/in/* /id/:splat 301
+/bahasa/* /id/:splat 301

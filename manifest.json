@@ -1,0 +1,13 @@
+{
+  "name": "Active Global Impex",
+  "short_name": "AGI",
+  "description": "Commodity exporter from Gujarat, India — agro commodities, feed ingredients, and industrial minerals.",
+  "start_url": "/en/",
+  "display": "standalone",
+  "background_color": "#0D1B2A",
+  "theme_color": "#0D1B2A",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

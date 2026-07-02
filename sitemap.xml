@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://activeglobalimpex.com/en/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://activeglobalimpex.com/en/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://activeglobalimpex.com/id/" />
+  </url>
+  <url>
+    <loc>https://activeglobalimpex.com/id/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://activeglobalimpex.com/en/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://activeglobalimpex.com/id/" />
+  </url>
+  <url>
+    <loc>https://activeglobalimpex.com/en/about/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://activeglobalimpex.com/en/about/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://activeglobalimpex.com/id/about/" />
+  </url>
+  <url>
+    <loc>https://activeglobalimpex.com/id/about/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://activeglobalimpex.com/en/about/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://activeglobalimpex.com/id/about/" />
+  </url>
+  <url>
+    <loc>https://activeglobalimpex.com/en/products/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://activeglobalimpex.com/en/products/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://activeglobalimpex.com/id/products/" />
+  </url>
+  <url>
+    <loc>https://activeglobalimpex.com/id/products/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://activeglobalimpex.com/en/products/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://activeglobalimpex.com/id/products/" />
+  </url>
+  <url>
+    <loc>https://activeglobalimpex.com/en/contact/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://activeglobalimpex.com/en/contact/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://activeglobalimpex.com/id/contact/" />
+  </url>
+  <url>
+    <loc>https://activeglobalimpex.com/id/contact/</loc>
+    <lastmod>2026-07-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://activeglobalimpex.com/en/contact/" />
+    <xhtml:link rel="alternate" hreflang="id" href="https://activeglobalimpex.com/id/contact/" />
+  </url>
+</urlset>
